@@ -2,6 +2,7 @@
   "use strict";
 
 
+  
   // Popular Causes Progress Bar
   if ($('.count-bar').length) {
     $('.count-bar').appear(function () {
